@@ -1,5 +1,11 @@
 # Object-Oriented Programming
 
+TODO: Make sure that you delete all of the TODO markers from this file and
+either rewrite or delete all of the prompts. When you are finished with the
+technical writing in this file it should contain polished content that is free
+of mistakes in syntax, semantics, and Markdown format and thus be suitable for
+publication on your professional web site.
+
 ## Add Your Name Here
 
 ## Program Output
