@@ -12,7 +12,8 @@ publication on your professional web site.
 
 ### What is the output from running the following commands?
 
-Note: Use a fenced code block to provide the output for this command.
+TODO: Use a fenced code block to provide the output for each of these three commands.
+TODO: Make sure that you provide a total of three fenced code blocks.
 
 - `python create-dog-with-class.py`
 
