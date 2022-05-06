@@ -1,7 +1,7 @@
 # Object-Oriented Programming
 
-## Assigned: Monday, December 6, 2021
-## Due: Wednesday, December 8, 2021
+## Assigned: Friday, May 6, 2022
+## Due: Friday, May 13, 2022
 
 After cloning this repository to your computer, please take the following steps:
 
@@ -14,5 +14,6 @@ After cloning this repository to your computer, please take the following steps:
   - `python create-dog-with-list.py`: Use a list-based approach
 - The programs will not produce the correct output unless you add the required source code
 - You may refer to the course slides for details about the required source code
-- Confirm that the programs are producing the expected output
+- You may refer to the Jupyter Notebooks on Proactive Programmers Live for more details
+- Please confirm that the programs are producing the expected output
 - Provide all of the required responses in the `writing/reflection.md` file
