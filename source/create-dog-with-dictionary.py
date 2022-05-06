@@ -10,3 +10,5 @@ print("Creating dog objects using a dictionary-based approach!")
 # TODO: display the characteristics of the dog named Bosco
 
 # TODO: display the characteristics of the dog named Faith
+
+# TODO: reflect on the strengths and weaknesses of this approach

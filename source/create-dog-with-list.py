@@ -9,3 +9,5 @@ print("Creating dog objects using a list-based approach!")
 
 # TODO: display the characteristics of the dog named Faith
 # TODO: please add one print statement for each index of faith
+
+# TODO: reflect on the strengths and weaknesses of this approach
