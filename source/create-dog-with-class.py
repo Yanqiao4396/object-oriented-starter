@@ -1,4 +1,7 @@
-# define a class to represent a Dog entity
+# TODO: add a docstring comment to describe this module
+
+# TODO: define a class to represent a Dog entity
+# TODO: add docstring comments the class and all of its methods
 class Dog:
 
     # TODO: define the constructor for the Dog class
@@ -50,4 +53,4 @@ print()
 # TODO: use the description method for the Faith object
 
 # TODO: use the action method for the Faith object
-# make the specific action a "waive bye-bye"
+# make the specific action appear as "waive bye-bye"
