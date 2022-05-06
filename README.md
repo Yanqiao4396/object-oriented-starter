@@ -16,4 +16,5 @@ After cloning this repository to your computer, please take the following steps:
 - You may refer to the course slides for details about the required source code
 - You may refer to the Jupyter Notebooks on Proactive Programmers Live for more details
 - Please confirm that the programs are producing the expected output
+- Make sure that you regularly commit to your GitHub repository with descriptive commit messages
 - Provide all of the required responses in the `writing/reflection.md` file
