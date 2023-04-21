@@ -1,3 +1,5 @@
+# TODO: add a docstring comment to describe this module
+
 # display a message indicating the purpose of this script
 print("Creating dog objects using a list-based approach!")
 
