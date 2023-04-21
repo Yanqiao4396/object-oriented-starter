@@ -6,17 +6,19 @@ class Dog:
 
     # TODO: define the constructor for the Dog class
     def __init__(self, name, age, breed):
+        self.name = ""
 
     # define a description method for the dog
     def description(self):
-        return f"{self.name} is a {self.age} years old {self.breed}"
+        return ""
 
     # define an action method for the dog
     def action(self, action):
-        return f"Hey, {self.name} {action}!"
+        return ""
 
     # TODO: define a __str__ method for the dog
     def __str__(self):
+        return ""
 
 
 # display a message indicating the purpose of this script
