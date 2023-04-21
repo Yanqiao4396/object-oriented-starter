@@ -38,3 +38,8 @@ TODO: Please provide a one-paragraph response to this question.
 ### What are the strengths and weaknesses of the dictionary-based approach?
 
 TODO: Please provide a one-paragraph response to this question.
+
+## At your option, please comment on anything else that you learned when completing this project
+
+TODO: At your option, please provide a one-paragraph response to this question. If you
+decide not to respond to this question, please completely delete the TODO reminder.
