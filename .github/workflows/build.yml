@@ -74,6 +74,6 @@ jobs:
           with:
             repo-token: ${{ secrets.GITHUB_TOKEN }}
             branch: insight
-            path: insight/insight-${{steps.current-time.outputs.formattedTime}}.yml
+            path: insight/insight-${{steps.current-time.outputs.formattedTime}}.json
             source: env
             source-arg: JSON_REPORT
