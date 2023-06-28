@@ -54,5 +54,26 @@ jobs:
         - name: Run GatorGrader with GatorGrade
           if: always()
           run:  |
-            pip install gatorgrade
+            pip install git+https://github.com/GatorEducator/gatorgrade.git@bug/JSON_REPORT-dumps
+            # Note: this is the standard approach that
+            # would not create the GitHub job summary
+            # gatorgrade --config config/gatorgrade.yml
             gatorgrade --config config/gatorgrade.yml --report env md GITHUB_STEP_SUMMARY
+
+        - name: Get current time
+          uses: josStorer/get-current-time@v2
+          if: always()
+          id: current-time
+          with:
+            format: YYYYMMDD-HH
+            utcOffset: "+08:00"
+          
+        - name: write branch
+          uses: GatorEducator/BranchWrite@v1.0.1
+          if: always()
+          with:
+            repo-token: ${{ secrets.GITHUB_TOKEN }}
+            branch: insight
+            path: insight/insight-${{steps.current-time.outputs.formattedTime}}.yml
+            source: env
+            source-arg: JSON_REPORT
